@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Rahman islam/AndroidStudioProjects/QuizPelajaranPokok/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.22205128205128205" />
+        <entry key="..\:/Users/Rahman islam/AndroidStudioProjects/QuizPelajaranPokok/app/src/main/res/drawable/ic_QuizPelajaranPokok_background.xml" value="0.22205128205128205" />
+        <entry key="..\:/Users/Rahman islam/AndroidStudioProjects/QuizPelajaranPokok/app/src/main/res/drawable/ic_launcher_background.xml" value="0.22205128205128205" />
+        <entry key="..\:/Users/Rahman islam/AndroidStudioProjects/QuizPelajaranPokok/app/src/main/res/layout/activity_hasil_binggris.xml" value="0.209375" />
+        <entry key="..\:/Users/Rahman islam/AndroidStudioProjects/QuizPelajaranPokok/app/src/main/res/layout/activity_hasil_kuis.xml" value="0.209375" />
+        <entry key="..\:/Users/Rahman islam/AndroidStudioProjects/QuizPelajaranPokok/app/src/main/res/layout/activity_kuis_bindo.xml" value="0.209375" />
+        <entry key="..\:/Users/Rahman islam/AndroidStudioProjects/QuizPelajaranPokok/app/src/main/res/layout/activity_kuis_binggris.xml" value="0.15677083333333333" />
+        <entry key="..\:/Users/Rahman islam/AndroidStudioProjects/QuizPelajaranPokok/app/src/main/res/layout/activity_kuis_bjepang.xml" value="0.18" />
+        <entry key="..\:/Users/Rahman islam/AndroidStudioProjects/QuizPelajaranPokok/app/src/main/res/layout/activity_kuis_fisika.xml" value="0.2" />
+        <entry key="..\:/Users/Rahman islam/AndroidStudioProjects/QuizPelajaranPokok/app/src/main/res/layout/activity_kuis_mtk.xml" value="0.18" />
+        <entry key="..\:/Users/Rahman islam/AndroidStudioProjects/QuizPelajaranPokok/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Rahman islam/AndroidStudioProjects/QuizPelajaranPokok/app/src/main/res/layout/activity_pilihan_kuis.xml" value="0.209375" />
+        <entry key="..\:/Users/Rahman islam/AndroidStudioProjects/QuizPelajaranPokok/app/src/main/res/layout/activity_splashscreen_quiz_pelajaran_pokok.xml" value="0.18" />
+        <entry key="..\:/Users/Rahman islam/AndroidStudioProjects/QuizPelajaranPokok/app/src/main/res/layout/hasil_kuis.xml" value="0.209375" />
+        <entry key="..\:/Users/Rahman islam/AndroidStudioProjects/QuizPelajaranPokok/app/src/main/res/mipmap-anydpi-v26/ic_QuizPelajaranPokok.xml" value="0.11614583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
