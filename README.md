@@ -1,4 +1,4 @@
-# Rahman Aplikasi Quiz Pelajaran Pokok
+# Aplikasi Quiz Pelajaran Pokok
 
 <h2>Pembuat/Developer: Rahman Islam</h2>
 <h3>Version 0.0.1</h3>
